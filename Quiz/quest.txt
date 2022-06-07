@@ -1,0 +1,30 @@
+Question
+Azerbaycanin paytaxti haradir?
+Baki
+Gence
+Seki
+Samaxi
+Question
+Bayragimizin 2ci rengi hansidir?
+Qirmizi
+Goy
+Yasil
+Sari
+Question
+Xocali faciesi ne zaman bas verib?
+26 fevral
+20 yanvar
+9 noyabr
+31 mart
+Question
+Su nece derecede qaynayir?
+100
+0
+1000
+-1
+Question
+Ingilis elifbasinda nece herf var?
+26
+27
+28
+32
